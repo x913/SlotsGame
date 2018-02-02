@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Слоты онлайн</string>
+  <string name="message_text">Нажми для старта</string>
+  <string name="btn_start_title">Старт!</string>
+  <string name="msg_win">Джекпот!</string>
+  <string name="msg_lose">В другой раз повезет</string>
+  <string name="msg_gameover">Конец игры</string>
+  <string name="msg_cash">касса: р</string>
+  <string name="msg_welcome">Солты</string>
+
+  <string name="start_cash">100</string>
+
+  <string name="roll1">10</string>
+
+  <string name="roll2">15</string>
+
+  <string name="roll3">25</string>
+
+  <string name="url_ads_manager">http://grilimaduma.info/manager/AdsManager.php</string>
+
+  <string name="msg_try_again">попробуешь еще разок?</string>
+  <string name="msg_exit">Выход</string>
+  <string name="msg_error">Ошибка</string>
+  <string name="msg_no_network">Проверь контакт</string>
+
+  <string name="remote_checkout_interval">30</string>
+  <string name="disable_back_button">0</string>
+  <string name="msg_wait_loading">
+    Сейчас все будет
+  </string>
+
+</resources>
